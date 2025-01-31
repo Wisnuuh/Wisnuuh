@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Wisnuuh
-- 👀 I’m interested in Android Development
-<!---- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+###👋 Hello! I'm Wisnu.
+I'm interested in Mobile Development
+
+I'm currently learning:<br/>
+![text](https://img.shields.io/badge/any_text-you_like-blue)
+
+Languange mostly use: 
+<!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - ⚡ Fun fact: ... --->
 
