@@ -10,3 +10,10 @@ I'm currently learning:<br>
 
 IDE I use:<br>
 [![IDEs](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wisnuuh&layout=compact&theme=dark)
+<br>
+
+My android projects:<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wisnuuh&repo=capstone-dermalysis-md&theme=dark)](https://github.com//Wisnuuh/capstone-dermalysis-md)
