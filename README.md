@@ -1,5 +1,3 @@
-<h2>👋 Hello! I'm Wisnu.</h2>
-
 I'm interested in Mobile Development📱
 <br>
 
