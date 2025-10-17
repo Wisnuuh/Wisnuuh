@@ -8,14 +8,16 @@ I'm interested in Mobile Development📱
 <br>
 
 I'm currently learning:<br>
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Static Badge](https://img.shields.io/badge/KTOR-087cfa?style=for-the-badge&logo=ktor&logoColor=white)
+[![Kotlin](https://skills.syvixor.com/api/icons?perline=15&i=kotlin)](https://kotlinlang.org/)
+[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=android)](https://developer.android.com/)
+[![Dart](https://skills.syvixor.com/api/icons?perline=15&i=dart)](https://dart.dev/)
+[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=flutter)](https://flutter.dev/)
 <br>
 
 IDE I use:<br>
-[![AndroidStudio](https://skills-icons.vercel.app/api/icons?i=androidstudio)](https://github.com/sckrp/skills-icons)
-[![Intellij](https://skills-icons.vercel.app/api/icons?i=intellijidea)](https://github.com/sckrp/skills-icons)
+[![AndroidStudio](https://skills-icons.vercel.app/api/icons?i=androidstudio)](https://developer.android.com/studio)
+[![Intellij](https://skills-icons.vercel.app/api/icons?i=intellijidea)](https://www.jetbrains.com/idea/download/?section=windows)
+[![Visual Studio Code](https://skills.syvixor.com/api/icons?perline=15&i=visualstudiocode)](https://code.visualstudio.com/)
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wisnuuh&layout=compact&theme=dark)
