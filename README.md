@@ -25,3 +25,4 @@ IDE I use:<br>
 
 My android projects:<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wisnuuh&repo=capstone-dermalysis-md&theme=dark)](https://github.com//Wisnuuh/capstone-dermalysis-md)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wisnuuh&repo=UjikomLSP&theme=dark)](https://github.com/Wisnuuh/UjikomLSP)
